@@ -1,4 +1,4 @@
-package com.hungrybandits.fraud;
+package com.hungrybandits.clients.fraud;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

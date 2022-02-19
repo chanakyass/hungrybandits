@@ -1,5 +1,6 @@
 package com.hungrybandits.fraud;
 
+import com.hungrybandits.clients.fraud.FraudCheckResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
