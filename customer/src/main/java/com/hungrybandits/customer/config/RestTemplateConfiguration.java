@@ -1,4 +1,4 @@
-package com.hungrybandits.config;
+package com.hungrybandits.customer.config;
 
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.context.annotation.Bean;

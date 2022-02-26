@@ -1,4 +1,4 @@
-package com.hungrybandits.customer;
+package com.hungrybandits.customer.customer;
 
 import lombok.Data;
 
